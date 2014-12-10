@@ -1,5 +1,6 @@
 #hadoop架构
 ![](http://i.imgur.com/4Lmdc2S.png)
+![](http://i.imgur.com/IoJQFjm.png)
 
 > 由namenode、jobtracker、namenode和tasktracker组成
 
